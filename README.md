@@ -1,2 +1,2 @@
-# BFO-Implementation
-Developing a Substiituion Box based on BFOA algorithm 
+# BFOA
+Developing a S-Box based on BFOA algorithm and using Choas and tent maps
