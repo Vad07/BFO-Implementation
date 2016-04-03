@@ -1,6 +1,6 @@
 # BFOA
-Developing a S-Box based on BFOA algorithm and using Choas and tent maps
+Developing a S-Box based on BFOA algorithm and using Choas and tent maps.<br />
 
-#Todo-
-1.Embedding  diffrent scripts into one
-2.Matlab program for the same
+Todo<br />
+1.Embedding  diffrent scripts into one.<br />
+2.Matlab program for the same.<br />
